@@ -1,0 +1,21 @@
+{
+	"compilerOptions": {
+		"rootDir": "src",
+		"outDir": "dst",
+
+		"module": "ESNext",
+		"target": "ES2020",
+		
+		"strictNullChecks": true,
+		"noImplicitThis": true,
+		"noImplicitReturns": true,
+		"alwaysStrict": true,
+
+		"declaration": true,
+		"preserveConstEnums": true,
+		"sourceMap": true,
+		"removeComments": true,
+
+		"skipDefaultLibCheck": true,
+	}
+}
