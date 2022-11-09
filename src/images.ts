@@ -6,7 +6,3 @@ export function fromURL(url: string): Promise<HTMLImageElement> {
 		image.src = url;
 	});
 }
-
-export function toURL(image: HTMLImageElement): string {
-	return image.src;
-}

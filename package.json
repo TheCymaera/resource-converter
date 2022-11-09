@@ -1,7 +1,7 @@
 {
 	"name": "resource-converter",
-	"version": "2.0.0",
-	"description": "Convert between urls, images, blobs, iterators and readable streams",
+	"version": "3.0.0",
+	"description": "Convert between urls, images, blobs, generators, async-generators and readable streams",
 	"main": "dst/index.js",
 	"type": "module",
 	"scripts": {
@@ -19,7 +19,9 @@
 		"uri",
 		"images",
 		"blobs",
+		"async",
 		"iterators",
+		"generators",
 		"readable",
 		"streams",
 		"converter",

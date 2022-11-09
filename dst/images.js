@@ -6,7 +6,4 @@ export function fromURL(url) {
         image.src = url;
     });
 }
-export function toURL(image) {
-    return image.src;
-}
 //# sourceMappingURL=images.js.map
